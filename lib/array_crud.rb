@@ -1,12 +1,13 @@
 def create_an_empty_array
-  
+  thing = []
 end
 
 def create_an_array
-  
+  thing = ['thing1']
 end
 
 def add_element_to_end_of_array(array, element)
+  thing = ['thing1']
   
 end
 
